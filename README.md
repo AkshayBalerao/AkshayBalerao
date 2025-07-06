@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 B.Tech CSE (AI & ML) | MLRITM, Hyderabad  
-  💻 Python & Java Developer | AI/ML Learner | Web Developer  
+  💻 Python Developer | AI/ML Learner | Web Developer  
   📍 Hyderabad, India | 📫 akshaybalerao1435@gmail.com  
   🔗 <a href="https://linkedin.com/in/balerao-akshay">LinkedIn</a>
 </p>
